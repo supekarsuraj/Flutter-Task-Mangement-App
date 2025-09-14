@@ -1,4 +1,4 @@
-# taskmangementapp
+# Task Mangement Application
 
 # Features 
  Add Tasks Easily 📝 
